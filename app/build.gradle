@@ -1,8 +1,9 @@
-apply plugin: 'com.android.library'
+apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 26
     defaultConfig {
+        applicationId "com.dou.samples.mediaplayerdemo"
         minSdkVersion 15
         targetSdkVersion 26
         versionCode 1
