@@ -283,4 +283,8 @@ public class CustomMediaController extends FrameLayout implements View.OnClickLi
                 break;
         }
     }
+
+    public void setTitle(String title){
+        mTitle.setText(title);
+    }
 }

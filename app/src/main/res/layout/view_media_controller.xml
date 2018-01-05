@@ -315,6 +315,7 @@
         android:layout_marginRight="8dp"
         android:padding="4dp"
         android:text="00:00"
+        android:visibility="gone"
         android:textColor="@android:color/white"
         android:textSize="12sp"/>
     <!--中间开始播放按钮-->
